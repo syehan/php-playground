@@ -1,1 +1,1 @@
-# simple-palindrom
+# PHP Simplify Playground
